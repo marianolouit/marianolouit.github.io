@@ -555,7 +555,9 @@ footer a {
                  }
 
                  .invitados_estelares img {
-                   box-sizing: border-box;
+                  width: 100%;
+                  height: 364px;
+                  box-sizing: border-box;
                  }
 
                 /*---------------- Tópicos--------------*/
